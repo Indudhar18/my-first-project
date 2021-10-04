@@ -1,0 +1,118 @@
+.heading{
+    color: blue;
+    font-size: 20px;
+  }
+  
+  .lable-Text {
+    display: inline-block;
+    width: 160px;
+  }
+  
+  .bottom-space{
+    margin-bottom: 6px;
+  }
+  
+  .input-space{
+    width: 180px;
+    height: 16px;
+  }
+
+  .main {
+    height: 96vh;
+    width: 70vw;
+    border: 2px solid black;
+  }
+
+  .first {
+    margin: 1px;
+    width: 99%;
+    height: 13%;
+    border: 2px solid red;
+  }
+  .second {
+    margin: 1px;
+    width: 99%;
+    height: 85%;
+    border: 2px solid red;
+    display: flex;
+    flex-direction: row;
+  }
+  .second1 {
+    height: 99%;
+    width: 30%;
+    border: 2px solid blue;
+    margin: 1px;
+  }
+  .second2 {
+    height: 99%;
+    width: 68%;
+    border: 2px solid blue;
+    margin: 1px;
+  }
+  .third1 {
+    height: 80%;
+    width: 98%;
+    margin: 2px;
+    border: 2px solid black;
+  }
+  .third2 {
+    height: 17%;
+    width: 98%;
+    margin: 2px;
+    border: 2px solid black;
+  }
+  .btn {
+    border: solid;
+    padding: 7px;
+    text-decoration: none;
+    background: steelblue;
+    display: block;
+    color: silver;
+    text-align: center;
+    margin: 12px;
+  }
+  .active-button {
+
+    background-color: brown;
+  }
+
+  #customers th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #04AA6D;
+    color: white;
+  }
+  .profile-image{
+    width: 37px;
+    
+  }
+
+  .main1 {
+    height: 60vh;
+    width: 50vw;
+    border: 2px solid black;
+  }
+
+  .one1 {
+    height: 43%;
+    width: 90%;
+    border: 1px solid black;
+    margin-top: 30px;
+    margin-inline: auto;
+  }
+
+  
+  h1 {
+    margin: auto;
+    font-size: initial;
+}
+.password {
+  display: flex;
+  align-items:center
+}
+.image {
+  width: 40px;
+  cursor: pointer;
+}
+  

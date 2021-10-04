@@ -1,0 +1,114 @@
+.body {
+    display: flex;
+    justify-content: center;
+}
+.main {
+    height: 95vh;
+    width: 73vw;
+    border: 1px solid black;
+    background-color: crimson;
+}
+.first {
+    height: 20%;
+    width: 99%;
+    margin: 3px;
+    /* border: 1px solid red; */
+    text-align: center;
+    color: white;
+}
+.second {
+    height: 60%;
+    width: 99%;
+    margin: 3px;
+    /* border: 1px solid red; */
+    display: flex;
+    flex-direction: row;
+}
+.third {
+    margin: 3px;
+    height: 17%;
+    width: 99%;
+    /* border: 1px solid red; */
+}
+.second1 {
+    margin: 3px;
+    height: 98%;
+    width: 23%;
+    /* border: 1px solid red; */
+}
+.second2 {
+    margin: 3px;
+    height: 98%;
+    width: 60%;
+    border: 1px solid white;
+    color: white;
+}
+.second3 {
+    margin: 3px;
+    height: 98%;
+    width: 15%;
+    /* border: 1px solid red; */
+    text-align: center;
+    color: white;
+    margin: unset;
+    font-size: 23px;
+    display: flex;
+    flex-flow: wrap;
+    overflow: auto;
+}
+.butn {
+    border: solid;
+    padding: 7px;
+    text-decoration: none;
+    display: block;
+    color: white;
+    text-align: center;
+    margin: 12px;
+    border-radius: 57px;
+}    
+.butn1 {
+    border: 2px solid white;
+    padding: 7px;
+    margin: 12px;
+    display: inline-block;
+    padding: 32px;
+    border-radius: 37px;
+    background-image: url(./contact.png);
+    background-size: cover;
+    
+}
+.butn2 {
+    border: 2px solid white;
+    padding: 7px;
+    margin: 12px;
+    display: inline-block;
+    padding: 32px;
+    border-radius: 37px;
+    background-image: url(./lk.png);
+    background-size: cover; 
+    
+}
+.butn3 {
+    border: 2px solid white;
+    padding: 7px;
+    margin: 12px;
+    display: inline-block;
+    padding: 32px;
+    border-radius: 37px;
+    background-image:url(./gmail.png);
+    background-size: cover;
+}
+.butn4 {
+    border: 2px solid white;
+    padding: 7px;
+    margin: 12px;
+    display: inline-block;
+    padding: 32px;
+    border-radius: 37px;
+    background-image: url(./sk.png);
+    background-size: cover;
+}
+.third {
+    text-align: center;
+    color: white;
+}
